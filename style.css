@@ -38,3 +38,9 @@ input {
     padding: 5px 55px 5px 3px;
     font-family: var(--skinny-font);
 }
+button {
+    background: rgb(35, 35, 35);
+    color: white;
+    font-family: var(--skinny-font);
+    padding: 5px 40px;
+}
