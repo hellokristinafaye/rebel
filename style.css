@@ -44,3 +44,13 @@ button {
     font-family: var(--skinny-font);
     padding: 5px 40px;
 }
+
+main {
+    display: flex;
+}
+.article {
+    background: white;
+    flex-basis: 70%;
+    padding: 10px;
+    margin: 15px 15px 15px 0;
+}
