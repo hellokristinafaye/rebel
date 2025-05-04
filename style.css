@@ -68,3 +68,10 @@ main {
     font-family: Fascinate;
     font-style:italic;
 }
+
+.sidebar {
+    background: var(--primary-color);
+    padding: 20px 30px;
+    margin: 15px 0 15px 0;
+    flex-basis: 25%;
+}
