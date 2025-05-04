@@ -75,3 +75,9 @@ main {
     margin: 15px 0 15px 0;
     flex-basis: 25%;
 }
+.sidebar-title {
+    font-family: Fascinate;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
