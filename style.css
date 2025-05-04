@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    --primary-color: #fc0;
 }
 body {
     background: rgb(204, 202, 202);
@@ -14,4 +15,6 @@ header {
     font-style: italic;
     text-align: center;
     padding: 30px;
+    color: white;
+    text-shadow: var(--primary-color) 1px 0 10px;
 }
