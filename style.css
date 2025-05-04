@@ -5,3 +5,13 @@
 body {
     background: rgb(204, 202, 202);
 }
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    font-family: Fascinate;
+    font-style: italic;
+    text-align: center;
+    padding: 30px;
+}
