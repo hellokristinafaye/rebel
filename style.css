@@ -84,3 +84,10 @@ main {
 .sidebar-list {
     padding: 20px;
 }
+
+.copyright-text {
+    font-family: var(--skinny-font);
+    background: white; 
+    padding: 35px;
+    margin-bottom: 30px;
+}
