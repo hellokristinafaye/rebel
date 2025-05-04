@@ -60,3 +60,7 @@ main {
     text-align: center;
     padding: 20px;
 }
+.article p {
+    font-family: var(--skinny-font);
+    margin: 10px;
+}
