@@ -64,3 +64,7 @@ main {
     font-family: var(--skinny-font);
     margin: 10px;
 }
+.subsection-title {
+    font-family: Fascinate;
+    font-style:italic;
+}
